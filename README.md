@@ -1,34 +1,8 @@
-# Project template to start a new computational project
-### Our suggestion for project organisation and better reproducibility
+# Repository README
 
-## General info
-This repository contains our idea project directory structure to make computational research projects within our group easier to work with and more reproducible. This project structure is currently our best suggestion but we are happy for suggestions and discussions.
+The "Pfalciparum_sero_sign" repository contains code and data for identification of serological markers of recent malaria exposure as described in 
+Yman et al. Nature Communications 2021.
 
-## Table of contents
-* [General info](#general-info)
-* [Repo description](#repo-description)
-* [Getting started](#getting-started)
-* [Initiating your R environment (Reproducibility feature)](#init_renv)
-* [Create R markdowns from template (Reproducibility feature)](#markdown)
-* [Thoughts and Comments](#thoughs-comments)
-
-
-## Repo description
-This repository provides a template for new computational projects. It contains a pre-defined structure, as well as some features for reproducible research using an R project and version control via GitHub.
-  * Pre-defined directory structure with readme files
-  * Description on how to connect a template-based repository with rstudio
-  * Several features to help analysis reproducibility
-
-<a name="getting-started"></a>
-## :technologist: Getting started
-
-### Creating a your own repository from this repository template
-1.	Create a new GitHub repository based on [this template](https://github.com/LautenbachMJ/project_template). Click on the green button (“Use this template”).
-
-2. Go to your new repository and copy the url (green button “Code”). You should have copied something like `https://github.com/yourGitHubName/yourRepoName.git`.
- 
-### Connecting your GitHub Repository to your RStudio project
-3.	You can do this either in RStudio or in the terminal. When using RStudio, click on (```File/New Project..```) in the menu bar. Then select "from VersionControl" and "Git". Paste the copied URL and give the respository a name. This will connect your GitHub repository to your R project and allows version control.
 
 
 **Note: From now on, everything described below will be executed in RStudio**
