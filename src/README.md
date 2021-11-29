@@ -2,11 +2,11 @@
 
 The 'src' folder contain R code for identifying serological markers of recent P. falciparum exposure as described in Yman et al. Nat. Comms. 2021
 
-1. Execute 'cloned_repo_init.R'
+## 1. Execute 'cloned_repo_init.R'
     
   This will establish a local version of R including the appropriate version of the necessary dependencies for executeing 'Pfalciparum_sero_sign.R'
     
-2. Execute 'Pfalciparum_sero_sign.R'
+## 2. Execute 'Pfalciparum_sero_sign.R'
 
   This script will reproduce results and figures from Yman et al. Nat. Comms. 2021. Figures will be saved to file within the "figures" folder.
 
