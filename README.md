@@ -3,15 +3,20 @@
 The "Pfalciparum_sero_sign" repository contains code and data for identification of serological markers of recent malaria exposure as described in 
 Yman et al. Nature Communications 2021.
 
+## LICENSE
+
+The contents of this repository are publicly available under an MIT Licens (see LICENSE for details)
+
+## RENV LOCK file
+
+The file 'renv.lock' contains the information necessary to restore project-local R libraries prior to executing analysis (see 'src/README.md' for details)
+
 ## Folders
 
 code is located within repo folder 'src'
 
 data is located within repo folde 'data'
 
-## LICENSE
-
-The contents of this repository are publicly available under an MIT Licens (see LICENSE for details)
 
 ## System requirements
 
