@@ -6,9 +6,9 @@ Yman et al. Nature Communications 2021.
 To clone contents of this repo:
 
 1. copy the repo url (green button “Code”). 
-2. When using RStudio, click on (File/New Project..) in the menu bar.
-3. Select "from VersionControl" and "Git".
-4. Paste the copied URL and give the respository a name.
+2. when using RStudio, click on (File/New Project..) in the menu bar.
+3. create project from "VersionControl" and "Git".
+4. paste the copied URL and give the respository a name.
 
 ## LICENSE
 
