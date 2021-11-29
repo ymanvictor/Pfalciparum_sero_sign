@@ -5,7 +5,7 @@ Yman et al. Nature Communications 2021.
 
 ## LICENSE
 
-The contents of this repository are publicly available under an MIT Licens (see LICENSE for details)
+The contents of this repository are publicly available under an MIT License (see LICENSE for details)
 
 ## RENV LOCK file
 
