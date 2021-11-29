@@ -3,6 +3,13 @@
 The "Pfalciparum_sero_sign" repository contains code and data for identification of serological markers of recent malaria exposure as described in 
 Yman et al. Nature Communications 2021.
 
+To clone contents of this repo:
+
+1. copy the repo url (green button “Code”). 
+2. When using RStudio, click on (File/New Project..) in the menu bar.
+3. Select "from VersionControl" and "Git".
+4. Paste the copied URL and give the respository a name.
+
 ## LICENSE
 
 The contents of this repository are publicly available under an MIT License (see LICENSE for details)
