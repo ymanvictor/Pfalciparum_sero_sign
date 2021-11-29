@@ -4,7 +4,7 @@ The 'src' folder contain R code for identifying serological markers of recent P.
 
 ## 1. Execute 'cloned_repo_init.R'
     
-  This will establish a local version of R including the appropriate version of the necessary dependencies for executeing 'Pfalciparum_sero_sign.R'
+  Using the 'renv.lock'-file this script will establish a project-local version of R including the appropriate version of the necessary dependencies for executeing 'Pfalciparum_sero_sign.R'
     
 ## 2. Execute 'Pfalciparum_sero_sign.R'
 
