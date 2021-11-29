@@ -5,4 +5,4 @@ if (!require("renv")) install.packages("renv")
 
 library("renv")
 
-renv::activate()
+renv::restore()
